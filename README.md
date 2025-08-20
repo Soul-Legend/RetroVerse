@@ -101,6 +101,6 @@ This architecture allows for extreme modularity and makes adding new game modes 
 Upon launching, the main menu will appear. Use the **W** and **S** keys to navigate and **Space** to select an option.
 
 ## ✒️ Authors
-* ##### [Rafael Correa Bitencourt](https://github.com/rafael-bitencourt)
 * ##### [Pedro Henrique Taglialenha](https://github.com/Soul-Legend)
 * ##### [Gustavo Bodi](https://github.com/GustavoBodi)
+* ##### [Rafael Correa Bitencourt](https://github.com/rafael-bitencourt)
