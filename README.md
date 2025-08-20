@@ -9,6 +9,8 @@ Você é um pogramador que, após passar noites viradas e beber litros e litros 
 RetroVerse testa as capacidades adaptativas do jogador com sua mecânica única de troca de mundos. Essa mecânica foge do controle do jogador e alterna periodicamente o estilo de jogo em que está inserido. Boa sorte tentando sobreviver a uma realidade tão dinâmica.
 
 
+<img width="960" height="554" alt="image" src="https://github.com/user-attachments/assets/fe10db64-71bd-40a0-b65d-6bb94ee70fa3" />
+
 ![Screenshot from 2023-10-26 21-28-30](https://github.com/BitenRuivo/RetroVerse/assets/124313519/f2286399-a6f1-4645-a975-12b0eb40a502)
 
 
