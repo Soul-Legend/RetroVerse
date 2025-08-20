@@ -7,7 +7,6 @@ The game's narrative follows a programmer who, after countless sleepless nights,
 ![Screenshot from 2023-10-26 21-27-56](https://github.com/BitenRuivo/RetroVerse/assets/124313519/d5cd9a90-a6b9-405a-9324-d5c1b431fafb)
 
 
-## 🕹️ Jogabilidade:
 ## The Core Mechanic: Real-Time World Transformation
 
 The defining feature of RetroVerse is its seamless, in-place transformation. Every 8 seconds, the game doesn't just switch to a new minigame—it **morphs the existing one**.
